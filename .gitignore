@@ -1,0 +1,11 @@
+tmp/
+**/render_*/
+*.mp4
+*.mov
+analysis/bench/*.csv
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
